@@ -5,7 +5,7 @@ from pprint import pprint
 import constants as const
 
 ORDERINGS = ['Ascending', 'Descending']
-CRITERIAS = ['Name', 'Surname', 'PhoneNumberCode']
+CRITERIAS = ['Name', 'Surname', '', 'PhoneNumberCode']
 SEPARATORS = {':', '-'}
 
 VALIDATION_STRINGS = {
