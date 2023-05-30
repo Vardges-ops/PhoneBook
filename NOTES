@@ -10,5 +10,6 @@ IMPROVEMENTS:
         reduce the usage with global keyword
         lines could be wrapped as class instances and they could as well be manipulated by another class
         code could be more conceptual to functional programming paradigm
+        functions could have docstring to be more describable
     preview suggestions:
 
