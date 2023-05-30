@@ -1,0 +1,1 @@
+first_msg = "Hi !\nPlease locate your file under folder named 'file_folder' in this directory, then input your file path\nNOTE !\n\tMimetype format '.txt'\n\tFile name example 'names_example.txt'\n\tFile path example 'file_folder//names_example'\n"

@@ -1,0 +1,8 @@
+The file path input part from task file was unclear.
+
+In the example of the given task there are non valid strings, specifically with numbers and these lines are also present in ordering part as well, so`
+    in case of number length it can also be 0, so basically the number is absent, then how can a line with invalid line number part be present in ordering part?
+
+
+could be done via:
+    Generators for big content file loading
