@@ -1,0 +1,15 @@
+NOTES:
+    The file path input part from task file was unclear.
+    In the example of the given task there are non valid strings, specifically with numbers and these lines are also present in ordering part as well, so`
+        in case of number length it can also be 0, so basically the number is absent, then how can a line with invalid line number part be present in ordering part?
+    It is not clear if the lines with empty surname should always appear in the end, either when ordering is ascending or descending.
+
+IMPROVEMENTS:
+    could be done:
+        Generators for big content file loading
+        reduce the usage with global keyword
+        lines could be wrapped as class instances and they could as well be manipulated by another class
+        code could be more conceptual to functional programming paradigm
+        functions could have docstring to be more describable
+    preview suggestions:
+
